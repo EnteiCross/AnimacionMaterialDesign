@@ -1,0 +1,10 @@
+c:\users\luis\source\repos\AnimacionMaterialDesign\AnimacionMaterialDesign\bin\Debug\AnimacionMaterialDesign.exe
+c:\users\luis\source\repos\AnimacionMaterialDesign\AnimacionMaterialDesign\bin\Debug\AnimacionMaterialDesign.pdb
+c:\users\luis\source\repos\AnimacionMaterialDesign\AnimacionMaterialDesign\obj\Debug\AnimacionMaterialDesign.csprojAssemblyReference.cache
+c:\users\luis\source\repos\AnimacionMaterialDesign\AnimacionMaterialDesign\obj\Debug\AnimacionMaterialDesign.Form1.resources
+c:\users\luis\source\repos\AnimacionMaterialDesign\AnimacionMaterialDesign\obj\Debug\AnimacionMaterialDesign.Properties.Resources.resources
+c:\users\luis\source\repos\AnimacionMaterialDesign\AnimacionMaterialDesign\obj\Debug\AnimacionMaterialDesign.csproj.GenerateResource.cache
+c:\users\luis\source\repos\AnimacionMaterialDesign\AnimacionMaterialDesign\obj\Debug\AnimacionMaterialDesign.csproj.CoreCompileInputs.cache
+c:\users\luis\source\repos\AnimacionMaterialDesign\AnimacionMaterialDesign\obj\Debug\AnimacionMaterialDesign.exe
+c:\users\luis\source\repos\AnimacionMaterialDesign\AnimacionMaterialDesign\obj\Debug\AnimacionMaterialDesign.pdb
+C:\Users\Luis\source\repos\AnimacionMaterialDesign\AnimacionMaterialDesign\obj\Debug\AnimacionMaterialDesign.Componentes.CmpInteractivoOri.resources
